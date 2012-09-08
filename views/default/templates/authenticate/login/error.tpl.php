@@ -1,0 +1,1 @@
+<p>Přihlášení se nezdařilo, ověřte prosím správnost zadaných údajů.</p>

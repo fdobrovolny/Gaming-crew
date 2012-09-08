@@ -1,0 +1,1 @@
+<p><a href="authenticate/register">Připojte se k DINO SPACE</a> nebo se <a href="authenticate/login">přihlaste</a></p>

@@ -1,0 +1,1 @@
+<p>Uživatel: {username} | <a href="profile">zobrazit profil</a> | <a href="account">spravovat účet</a> | <a href="authenticate/logout">odhlásit</a></p>
